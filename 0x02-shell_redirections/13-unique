@@ -1,0 +1,3 @@
+table File  2 lines (2 sloc)  27 Bytes
+#!/bin/bash
+sort | uniq -u
